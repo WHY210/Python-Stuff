@@ -1,5 +1,5 @@
 # Python與物聯網資料分析 Python-and-IoT-Data-Analysis（廖文宏）
-CISCO：Python Essentials \
+CISCO：Python Essentials 
 
 可能要自己找 \
 #跟##應該只是老師上課講的版本我也忘了，反正都是可以用的
