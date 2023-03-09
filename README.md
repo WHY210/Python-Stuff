@@ -1,5 +1,4 @@
-CCP1061\
-交大跨院基本通識：Python與物聯網資料分析 Python-and-IoT-Data-Analysis（廖文宏）\
+# Python與物聯網資料分析 Python-and-IoT-Data-Analysis（廖文宏）
 CISCO：Python Essentials <br />
 
 HW1：Lab 3.2.1.15：Collatz Conjecture <br />
