@@ -2,7 +2,7 @@
 CISCO：Python Essentials <br />
 
 HW1：Lab 3.2.1.15：Collatz Conjecture <br />
-HW2：Lab 4.7.2.1：tic-tac-toe (OOXX) <br />
-HW3：Lab 2.5.1.11：sudoku check <br />
+HW2：Lab 4.7.2.1：tic-tac-toe (OOXX跟OOXX##) <br />
+HW3：Lab 2.5.1.11：sudoku check (sudoku) <br />
 HW4：Lab 4.3.1.16：sorted character frequancy histogram <br />
-HW5：sorted linear regression <br />
+HW5：sorted linear regression (data analysis) <br />
