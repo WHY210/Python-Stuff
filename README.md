@@ -2,7 +2,7 @@
 [爬蟲](https://github.com/WHY210/Python-Stuff/blob/main/DRO%E7%88%AC%E8%9F%B2.py)
 
 ## 511-Jenny  
-[管科專題資料貼貼樂檢查](https://github.com/WHY210/Python-Stuff/blob/main/Jenny_%E7%AE%A1%E7%A7%91%E5%B0%88%E9%A1%8C%E8%B3%87%E6%96%99%E8%B2%BC%E8%B2%BC%E6%A8%82%E6%AA%A2%E6%9F%A5.py)
+[管科專題資料貼貼樂檢查](https://github.com/WHY210/Python-Stuff/blob/main/Jenny_check.py)
  先把檔案存成utf-8逗號間隔，然後改一下最下面check檔案路徑就可以用了
 
 ---
@@ -15,7 +15,6 @@
 ### HW2：Lab 4.7.2.1 : tic-tac-toe
 [OOXX](https://github.com/WHY210/Python-Stuff/blob/main/OOXX.py)  
 [OOXX##](https://github.com/WHY210/Python-Stuff/blob/main/OOXX%23%23.py)  
-#跟##應該只是老師上課講的版本我也忘了，反正都是可以用的
 
 ### HW3：Lab 2.5.1.11 : sudoku check 
 [sudoku](https://github.com/WHY210/Python-Stuff/blob/main/Sudoku.py)
