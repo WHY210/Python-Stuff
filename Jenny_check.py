@@ -137,8 +137,8 @@ def check(from_file, to_file):
 
 
 check(
-    "..\\Jenny\\管科\\IT_by sample mean.csv",
-    "..\\Jenny\\管科\\raw_data_2004-2022(12.17)_IT_replace_by_sample_mean_done.csv",
+    "..\\..\\Jenny\\管科\\IT_by sample mean.csv",
+    "..\\..\\Jenny\\管科\\raw_data_2004-2022(12.17)_IT_replace_by_sample_mean_done.csv",
 )
 
 """
