@@ -129,7 +129,7 @@ def check(from_file, to_file):
             #    print(f"\n出事Jenny！！！{from_file} 貼到 {to_file} 的 {company_name} 出事")
 
     if i == 0:
-        print("\n\n", from_file, "貼到", to_file, "檢查完成啦Jenny\n\n")
+        print("\n\n", from_file, "貼到", to_file, "檢查完成啦Jenny，一切都沒有問題\n\n")
     else:
         print(
             f"\n\n{from_file}貼到{to_file}檢查完成啦Jenny\n出事啦\n以下company出事{company_name_list}\n以下column出事：\n{column_name_list}",
