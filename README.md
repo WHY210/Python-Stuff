@@ -1,9 +1,16 @@
 ## 511-Dro
 [爬蟲](https://github.com/WHY210/Python-Stuff/blob/main/DRO%E7%88%AC%E8%9F%B2.py)
+[copy_file](https://github.com/WHY210/Python-Stuff/blob/main/copy_file.py)
+[card_game](https://github.com/WHY210/Python-Stuff/blob/main/card_game.py)
 
 ## 511-Jenny  
 [管科專題資料貼貼樂檢查](https://github.com/WHY210/Python-Stuff/blob/main/Jenny_check.py)
  先把檔案存成utf-8逗號間隔，然後改一下最下面check檔案路徑就可以用了
+
+## +0
+[18 dices](https://github.com/WHY210/Python-Stuff/blob/main/18dices.py)
+[dices_probability](https://github.com/WHY210/Python-Stuff/blob/main/dices_probability.py)
+[longest increasing subsequece](https://github.com/WHY210/Python-Stuff/blob/main/longest%20increasing%20subsequence.py)
 
 ---
 
