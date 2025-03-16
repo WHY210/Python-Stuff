@@ -1,3 +1,6 @@
+## Theory-of-Structures-II
+[結構二的加分題：用MATLAB寫勁度法](https://github.com/WHY210/Python-Stuff/blob/main/StiffnessMethod.m)
+
 ## 511-Dro
 [爬蟲](https://github.com/WHY210/Python-Stuff/blob/main/DRO%E7%88%AC%E8%9F%B2.py)  
 [copy file](https://github.com/WHY210/Python-Stuff/blob/main/copy_file.py)  
